@@ -18,8 +18,7 @@ http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Bt
 http://astro2.rastream.com/gegar
 
 #EXTINF:-1 tvg-id="Kool FM" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/06/kool-fm-220x108.jpg" group-title="Radio",Kool FM
-https://mediaprima.rastream.com/mediaprima-koolfm
-
+https://mediaprima.rastream.com/mediaprima-koolfm.android
 
 #EXTINF:-1 tvg-id="Era FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Era_%28Malaysian_radio_station%29_logo.png" group-title="Radio",Era FM
 http://astro2.rastream.com/era
