@@ -11,6 +11,9 @@ http://astro1.rastream.com/mix
 #EXTINF:-1 tvg-id="Sinar FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/sinar.png" group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar
 
+#EXTINF:-1 tvg-id="Suria FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FA_Suria_Logo_square-01.png/514px-FA_Suria_Logo_square-01.png" group-title="Radio",Suria FM
+http://23693.live.streamtheworld.com/SURIA_FM.mp3
+
 #EXTINF:-1 tvg-id="Hot FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hot.png" group-title="Radio",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
 
