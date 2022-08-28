@@ -2,12 +2,6 @@
 
 ----------------------------------------------  RADIO   ----------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="Hitz FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hitz.png" group-title="Radio",Hitz FM
-http://astro1.rastream.com/hitz
-
-#EXTINF:-1 tvg-id="Mix FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-kuala-lumpur.png" group-title="Radio",Mix FM
-http://astro1.rastream.com/mix
-
 #EXTINF:-1 tvg-id="Sinar FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/sinar.png" group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar
 
@@ -25,6 +19,12 @@ https://mediaprima.rastream.com/mediaprima-koolfm.android
 
 #EXTINF:-1 tvg-id="Era FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Era_%28Malaysian_radio_station%29_logo.png" group-title="Radio",Era FM
 http://astro2.rastream.com/era
+
+#EXTINF:-1 tvg-id="Hitz FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/hitz.png" group-title="Radio",Hitz FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1 tvg-id="Mix FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/mix-kuala-lumpur.png" group-title="Radio",Mix FM
+http://astro1.rastream.com/mix
 
 #EXTINF:-1 tvg-id="Fly FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YsF2M3hKtx.png" group-title="Radio",Fly FM
 http://mediaprima.rastream.com/mediaprima-flyfm
