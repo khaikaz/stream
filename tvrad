@@ -33,6 +33,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
+#EXTINF:-1 tvg-id="TVS" tvg-logo=https://en.wikipedia.org/wiki/File:TVS_Sarawak.jpg" group-title="Free TV" ,TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
 
 -------------------------- ASTRO --------------------------------------------
 
