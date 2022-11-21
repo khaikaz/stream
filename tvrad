@@ -1,1 +1,147 @@
+#EXTM3U 
+
+
+-------------------------------  FreeTV  ------------------------------------------
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Free TV" ,TV1
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Free TV" ,TV2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" group-title="Free TV" ,TV3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_newNTV7.png/100px-Logo_of_newNTV7.png" group-title="Free TV" ,NTV7
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/132px-8TV_%28Malaysia%29_logo_in_English.svg.png" group-title="Free TV" ,8TV
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/150px-TV9_%28Malaysia%29_logo.svg.png" group-title="Free TV" ,TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:-1 tvg-id="TV IKIM" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="Free TV" ,TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Drama Sangat" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg" group-title="Free TV" ,Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+
+#EXTINF:-1 tvg-id="TV Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Free TV" ,TV Okey
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+
+-------------------------- ASTRO --------------------------------------------
+
+#EXTINF:-1 tvg-id="Astro Ria v1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro TV" ,Astro Ria v1
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
+
+#EXTINF:-1 tvg-id="Astro Ria v2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro TV" ,Astro Ria v2
+http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Astro Ria v3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro TV" ,Astro Ria v3
+https://m3u-editor.com/serve/fab2e470-f140-11ec-83dfgd/586130438
+
+#EXTINF:-1 tvg-id="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro TV" ,Astro Prima
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro TV" ,Astro Oasis
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro TV" ,Astro Citra
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142671.m3u8
+
+#EXTINF:-1 tvg-id="Astro Warna v1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Astro TV" ,Astro Warna v1
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+
+#EXTINF:-1 tvg-id="Astro Warna v2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Astro TV" ,Astro Warna v2
+http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
+
+ 
+
+
+------------------- MOVIE -------------------------------------------------------
+
+#EXTINF:-1 tvg-id="One HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Astro Movie" ,One HD
+http://210.210.155.35/uq2663/h/h143/index.m3u8
+
+#EXTINF:-1 tvg-id="TvN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Astro Movie" ,TvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Astro Movie" ,HBO
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Astro Movie" ,Cinemax
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="Boo" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Astro Movie" ,Boo
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="Astro Movie" ,KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="KIX Asia (Vet)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/150px-KIX_logo.svg.png" group-title="Astro Movie" ,KIX Asia (Vet)
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+
+
+------------------------- BERITA ---------------------------------------------------------
+
+#EXTINF:-1 tvg-id="AlJazeera - English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Astro Berita",Al Jazeera English (1080p)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Astro Berita",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="Bernama" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="Astro Berita",Bernama
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+
+--------------------- BERITA LUAR --------------------------------------------------
+
+#EXTINF:-1 tvg-id="Bahrain International" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="Berita Luar",Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarthAsia UK" tvg-logo="https://i.imgur.com/xXM60fa.png" group-title="Berita Luar" ,BBC Earth Asia (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews UK" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="Berita Luar",BBC News UK (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+
+
+- --------------------------------------- KARTUN - ----------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Animax Asia (Vet)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/200px-Animaxlogo-20160701.png" group-title="Kartun" ,Animax Asia (Vet)
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kartun" ,Ceria v1
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142522.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20220502075809" group-title="Kartun" ,Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
+
+
+#EXTINF:-1 tvg-id="BabyTV UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kartun" ,Baby TV Asia (Vietnamese dub) (1080p)
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+
+
+
+
+
+
+---------------- SPORT ----------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="AstroArena" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg" group-title="Astro Sport" ,Astro Arena CH801
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Astro Supersport 1" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg" group-title="Astro Sport" ,Astro Supersport 1
+https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142712.m3u8
+
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Astro Sport",RTM Sports HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+
 
