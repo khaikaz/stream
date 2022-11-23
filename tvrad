@@ -44,7 +44,9 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 -------------------------- ASTRO --------------------------------------------
 
 #EXTINF:-1 tvg-id="Astro Ria v1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro TV" ,Astro Ria v1
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
+license_type=clearkey
+license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://aqfadtv.xyz/live/ria/index.mpd
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="Astro Ria" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
