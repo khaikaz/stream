@@ -1,0 +1,1903 @@
+
+
+
+################ EPG  ################
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="NO EPG? CLICK SETTING, EPG TELEGUIDE, RELOAD EPG..."                                          
+
+
+
+######### TV Malaysia ########################################################################################################################################
+
+//////// TV 1 ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="101" ch-number="101" tvg-name="TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="101" ch-number="101" tvg-name="TV1 ⁽ˢᵉʳᵛᵉʳ 2⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv1.png",TV1 (Server 2)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="101" ch-number="101" tvg-name="TV1 ⁽ˢᵉʳᵛᵉʳ 4⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv1.png",TV1 (Server 4)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+
+///////TV 2 ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="102" ch-number="102" tvg-name="TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv2.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="102" ch-number="102" tvg-name="TV2 ⁽ˢᵉʳᵛᵉʳ 2⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv2.png",TV2 ⁽ˢᵉʳᵛᵉʳ 2⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+
+
+//// TV 3 ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="103" ch-number="103" tvg-name="TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾"  tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv3.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+//// DRAMA SANGAT ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="103" ch-number="103" tvg-name="Drama Sangat"  tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/dramasangat.png",Drama Sangat
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/clearkey/unifitv/tv3/
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_360p/index.m3u8
+
+//// TV Al Hijrah//// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="114" ch-number="114" tvg-name="TV Al-Hijrah ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/alhijrah.png",TV Alhijrah ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1113
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="114" ch-number="1141" tvg-name="TV Alhijrah ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/alhijrah.png",TV Alhijrah ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1688357242&hmac=0x340b5d9c709964f178d763952de0b4aeb4eacabbb61d0514db16f7dafc91b5b9
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="114" ch-number="1141" tvg-name="TV Alhijrah ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/alhijrah.png",TV Alhijrah ⁽ˢᵉʳᵛᵉʳ 3⁾
+https://live.mana2.my/TVAH/index.m3u8?organizationId=196288014&suiteItemId=196291301
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="114" ch-number="1141" tvg-name="TV Alhijrah ⁽ˢᵉʳᵛᵉʳ 4⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/alhijrah.png",TV Alhijrah ⁽ˢᵉʳᵛᵉʳ 4⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+//// TVS //////////// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="112" ch-number="112" tvg-name="TVS" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tvs.png",TVS Sarawak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+#https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="112" ch-number="112" tvg-name="TV Sarawak ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tvs.png",TVS Sarawak ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+
+//// Awesome TV //// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="123" ch-number="123" tvg-name="Awesome TV" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/awesometv.png",Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="123" ch-number="123" tvg-name="Awesome TV⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/awesometv.png",Awesome TV⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+
+//// TV Okey //// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="146" ch-number="146" tvg-name="TV Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tvokey.png",TV Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="146" ch-number="1461" tvg-name="TV Okey ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tvokey.png",TV Okey ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="146" ch-number="1461" tvg-name="TV Okey ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tvokey.png",TV Okey ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+
+//// Didik TV KPM ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="147" ch-number="147" tvg-name="Didik TV KPM" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/didiktv.png",Didik TV KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+# http://23.237.10.66:16405
+
+//// 8TV ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="148" ch-number="148" tvg-name="8TV ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/8tv.png",8TV ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+# http://51.79.82.208:16005
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="148" ch-number="1481" tvg-name="8TV⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/8tv.png",8TV⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="148" ch-number="1481" tvg-name="8TV⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/8tv.png",8TV⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+
+//// TV 9 //// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="149" ch-number="149" tvg-name="TV9 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv9.png",TV9 ⁽ˢᵉʳᵛᵉʳ ¹⁾ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+# http://51.79.82.208:16006
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="149" ch-number="1491" tvg-name="TV9 ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv9.png",TV9 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="149" ch-number="1491" tvg-name="TV9 ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv9.png",TV9 ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
+
+//// Drama Sangat /////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="Drama Sangat" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/dramasangat.png",Drama Sangat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.dailymotion.com
+# https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0q1PS0M5_V4lWerwAXWBDWIOouzXpAeZh1506HpnHONY)/dm/3/x6zvnex/s/live-3.m3u8
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="Drama Sangat ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/dramasangat.png",Drama Sangat ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/clearkey/unifitv/tv3/
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_360p/index.m3u8
+
+
+//// TV 6 ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="TV6" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv6.png",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="TV6 (Server 2)" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/tv6.png",TV 6 (Server 2)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+
+//// NTV 7 //// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="147" ch-number="147" tvg-name="NTV7" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/ntv7.png",NTV7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+# http://23.237.10.66:16405
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="147" ch-number="147" tvg-name="NTV7 ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/ntv7.png",NTV7 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+
+//// DUNIA SINEMA //// 
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="Dunia Sinema" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/dsinema.png",Dunia Sinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
+
+
+//// DEGUP ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="147" ch-number="147" tvg-name="Degup TV" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/degup.png",Degup TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4JbgoHmJVlsv1DSoIW4CDQ", "kid":"kfP+uqtuFckyAnm+JYaKoQ" } ], "type":"temporary" }
+https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="147" ch-number="147" tvg-name="Degup TV" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/degup.png",Degup TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="147" ch-number="147" tvg-name="Degup TV" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/degup.png",Degup TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+
+//// INSPIRASI ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="INSPIRASI" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/inspirasi.png",INSPIRASI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+
+//// SENSASI ////
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="SENSASI" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/sensasi.png",SENSASI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
+
+#EXTINF:-1 group-title="TV Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/nmy.png" tvg-id="" ch-number="" tvg-name="SENSASI⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/sensasi.png",SENSASI⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" }
+http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
+https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+
+
+######## ASTRO - MALAY ###############################################################################################################################################
+
+//// Astro Ria ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="104" ch-number="104" tvg-name="Astro Ria" tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/ria.png",Astro Ria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
+#EXTVLCOPT:http-icy-metadata=1
+#EXTVLCOPT:http-referer=smt.sky4k.eu.org
+https://speedtrademarket.com/livehd789/irinaspicy/vvip/ria
+
+//// Astro Prima ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="105" ch-number="105" tvg-name="Astro Prima" tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/prima.png",Astro Prima
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+
+//// Astro Oasis ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="106" ch-number="106" tvg-name="Astro Oasis" tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/oasis.png",Astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+# https://stream.zeehanzgadget.com/oasis.mpd
+# https://tv.kpsvpn.com/kpsboyoasis.mpd
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="106" ch-number="106" tvg-name="Astro Oasis⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/oasis.png",Astro Oasis⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+//// Astro Warna ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="107" ch-number="107" tvg-name="Astro Warna"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/warna.png",Astro Warna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=XCIPTV-v5.0.1
+#EXTVLCOPT:http-icy-metadata=1
+https://speedtrademarket.com/livehd789/irinaspicy/vvip/warna
+
+
+//// Astro Citra ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="108" ch-number="108" tvg-name="Astro Citra"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/citra.png",Astro Citra
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmxOVFl4TVRJdE9EVXlNaTAwWXpnd0xXSTJObUl0TkRsbE4yRTFPR1ZpTjJVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODQ5MjgwMCwiaWF0IjoxNjg3ODg4ODAwfQ.bA5Xli9SBPxMzeHdlY53VzdXKmljQUniL10xSBMZwqA","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd68k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+
+//// Astro Rania ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="112" ch-number="112" tvg-name="Astro Rania"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/rania.png",Astro Rania
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="112" ch-number="112" tvg-name="Astro Rania⁽ˢᵉʳᵛᵉʳ ²⁾"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/rania.png",Astro Rania⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+//// Astro Aura ////
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="113" ch-number="113" tvg-name="Astro Aura"  tvg-logo="https://khakaz.com/iptv/tvlogo/astro/aura.png",Astro Aura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="113" ch-number="113" tvg-name="Astro Aura⁽ˢᵉʳᵛᵉʳ ²⁾"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/aura.png",Astro Aura⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+//// Astro Go Shop RUUMA //// 
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="118" ch-number="118" tvg-name="Go Shop RUUMA"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/gsruuma.png",Go Shop RUUMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2501
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+
+//// Astro Go Shop GAAYA //// 
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="120" ch-number="120" tvg-name="Go Shop GAAYA"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/gsgaaya.png",Go Shop GAAYA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2501
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+
+//// Astro Go Shop  BAARU //// 
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="111" ch-number="111" tvg-name="Go Shop BAARU"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/goshop.png",Go Shop BAARU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2508
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
+
+//// Ceria //// 
+
+#EXTINF:-1 group-title="Astro Malay" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="611" ch-number="611" tvg-name="Astro Ceria"  tvg-logo="https://khakaz.com/iptv/tvlogo/astromy/ceria.png",Astro Ceria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JqbvXBxWGCpTFLeSFbjQbQ", "kid":"526GvXDwqoLJSzjYKVPdEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
+
+
+
+##### ASTRO - SPORTS ##########################################################################################################################################
+
+//////// ASSP Plus	810 ////////////////
+#EXTINF:-1 group-title="Astro Malaysia" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="810" ch-number="810" tvg-name="ASSP Plus"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/asspplus.png",ASSP Plus
+
+
+//////// Astro Arena	801 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="801" ch-number="801" tvg-name="Astro Arena"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/astroarena.png",Astro Arena
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="801" ch-number="801" tvg-name="Astro Arena HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/astroarena.png",Astro Arena HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7gz8x+pMpxXBuwCiJVBTqQ", "kid":"m5mIlPGIT2SYHvY3RMvvsQ" } ], "type":"temporary" }
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+
+//////// Astro Arena 2	802 ////////////////
+
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="802" ch-number="802" tvg-name="Astro Arena 2 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/astroarena2.png",Astro Arena 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9UTTRZakExWVRVdE9EWXhZUzAwWmpKaExUbGlOV1l0TWpJek1UVmpObUpsWm1VNCIsIndtb3BpZCI6MzIsImV4cCI6MTY4OTg2ODEwMywiaWF0IjoxNjg5MjY0MTAzfQ.fUjSuh-GoiiduBbdkZtsWYw2eoEfxRUEvFhqAhC-MTU","OTTNAF3y37Wd2167kimt":"aWF0IjoxNjg3NzUyNTE2fQCD1OZd7rmuuHuMdTMcH9ork9QhcCI6MTY4ODM1NjUxNiwi"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+
+//////// Arena Bola	803 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="803" ch-number="803" tvg-name="Arena Bola"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/arenabola.png",Arena Bola
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmxOVFl4TVRJdE9EVXlNaTAwWXpnd0xXSTJObUl0TkRsbE4yRTFPR1ZpTjJVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODQ5MjgwMCwiaWF0IjoxNjg3ODg4ODAwfQ.bA5Xli9SBPxMzeHdlY53VzdXKmljQUniL10xSBMZwqA","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd68k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+
+//////// Arena Bola 2	804 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="804" ch-number="804" tvg-name="Arena Bola 2"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/arenabola2.png",Arena Bola 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmxOVFl4TVRJdE9EVXlNaTAwWXpnd0xXSTJObUl0TkRsbE4yRTFPR1ZpTjJVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODQ5MjgwMCwiaWF0IjoxNjg3ODg4ODAwfQ.bA5Xli9SBPxMzeHdlY53VzdXKmljQUniL10xSBMZwqA","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd68k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+//////// Arena Bola 3	807 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="807" ch-number="807" tvg-name="Arena Bola 3"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/arenabola3.png",Arena Bola 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XVmxOVFl4TVRJdE9EVXlNaTAwWXpnd0xXSTJObUl0TkRsbE4yRTFPR1ZpTjJVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4ODQ5MjgwMCwiaWF0IjoxNjg3ODg4ODAwfQ.bA5Xli9SBPxMzeHdlY53VzdXKmljQUniL10xSBMZwqA","OTTNAF3yimtCD1OZd7rmuuHuMdTMcH9ork9Qh37Wd68k":"cCI6MTY4ODM1NjUxNiwiaWF0IjoxNjg3NzUyNTE2fQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+//////// Arena Bola 4	808 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="808" ch-number="808" tvg-name="Arena Bola 4"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/arenabola3.png",Arena Bola 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"imtZ0L9D4SZfzu/jIYQAYQ", "kid":"LLnnRGR0QSakBrBLuSBwvw" } ], "type":"temporary" }
+https://linear07-playback.sooka.my/CH3/masterCH3.mpd
+
+//////// Astro Cricket HD	824 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="824" ch-number="824" tvg-name="Astro Cricket HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/astrocriket.png",Astro Cricket HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+//////// Astro SuperSport 1 HD	811 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="811" ch-number="811" tvg-name="Astro SuperSport 2 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/supersport.png",Astro SuperSport 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
+
+//////// Astro SuperSport 2 HD	812 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="812" ch-number="812" tvg-name="Astro SuperSport 2 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/supersport2.png",Astro SuperSport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=TQ6cftyhX8
+http://hotz.vip:2082/live/abdulrazak998/123456/171.m3u8
+
+//////// Astro SuperSport 3 HD	813 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="813" ch-number="813" tvg-name="Astro SuperSport 3 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/supersport3.png",Astro SuperSport 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
+http://hotz.vip:2082/live/abdulrazak998/123456/172.m3u8
+
+//////// Astro SuperSport 4 HD	814 ////////////////
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="814" ch-number="814" tvg-name="Astro SuperSport 4 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/supersport4.png",Astro SuperSport 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+//////// Astro SuperSport HD 5	811 ////////////////
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="815" ch-number="815" tvg-name="Astro SuperSport HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/supersport5.png",Astro SuperSport 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WV2iln8WZ6KYfA8i70gbng", "kid":"MCtxup6dZzcgAOK9vwv8EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
+http://hotz.vip:2082/live/abdulrazak998/123456/175.m3u8
+
+//////// beIN Sports HD	818 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="818" ch-number="818" tvg-name="beIN Sports HD (SERVER 1)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsports.png",beIN Sports HD (SERVER 1)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZWVhNDM0MTUtOGQxNi0zYWM2LTllMTgtNTYwOWY2NDI0ODlj
+https://web.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001 
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="818" ch-number="818" tvg-name="beIN Sports HD (SERVER 2)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsports.png",beIN Sports HD (SERVER 2)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZWVhNDM0MTUtOGQxNi0zYWM2LTllMTgtNTYwOWY2NDI0ODlj
+https://web.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="818" ch-number="818" tvg-name="beIN Sports HD (SERVER 3)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsports.png",beIN Sports HD (SERVER 3)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZWVhNDM0MTUtOGQxNi0zYWM2LTllMTgtNTYwOWY2NDI0ODlj
+https://web.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001 
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="818" ch-number="818" tvg-name="beIN Sports HD (SERVER 4)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsports.png",beIN Sports HD (SERVER 4)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZWVhNDM0MTUtOGQxNi0zYWM2LTllMTgtNTYwOWY2NDI0ODlj
+https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+
+//////// beIN Sports MAX HD	819 ////////////////
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="819" ch-number="819" tvg-name="beIN Sports MAX (HD SERVER 1)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsportsmax.png",beIN Sports MAX HD (SERVER 1)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="819" ch-number="819" tvg-name="beIN Sports MAX (HD SERVER 2)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsportsmax.png",beIN Sports MAX HD (SERVER 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="819" ch-number="819" tvg-name="beIN Sports MAX (HD SERVER 3)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsportsmax.png",beIN Sports MAX HD (SERVER 3)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="819" ch-number="819" tvg-name="beIN Sports MAX (HD SERVER 4)"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/beinsportsmax.png",beIN Sports MAX HD (SERVER 4)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
+
+//////// eGG Network HD	800 ////////////////
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="800" ch-number="800" tvg-name="eGG Network HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/eggnetwork.png",eGG Network HD
+
+//////// Eurosport HD	820 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="820" ch-number="820" tvg-name="Eurosport HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/eurosport.png",Eurosport HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+
+//////// FOX Sports HD	815 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="815" ch-number="815" tvg-name="FOX Sports HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/foxsports.png",FOX Sports HD
+
+//////// FOX Sports 2 HD	816 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="816" ch-number="816" tvg-name="FOX Sports 2 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/foxsports2.png",FOX Sports 2 HD
+
+//////// FOX Sports 3 HD	817 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="817" ch-number="817" tvg-name="FOX Sports 3 HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/foxsports3hd.png",FOX Sports 3 HD
+
+
+//////// Golf Channel HD	822 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="822" ch-number="822" tvg-name="Golf Channel HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/golfchannel.png",Golf Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+//////// Premier Sports	823 ////////////////
+
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="823" ch-number="823" tvg-name="Premier Sports"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/premiersports.png",Premier Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
+//////// WWE Network	841 ////////////////
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="841" ch-number="841" tvg-name="WWE Network"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/wwenetwork.png",WWE Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+//////// WWE Network HD	821 ////////////////
+#EXTINF:-1 group-title="Astro Sports" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="821" ch-number="821" tvg-name="WWE Network HD"  tvg-logo="https://khakaz.com/iptv/tvlogo/astrosports/wwenetwork.png",WWE Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+
+
+##### ASTRO - INDIAN ##########################################################################################################################################
+
+///// COLORS HINDI 116 //////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="116" ch-number="116" tvg-name="COLORS HINDI" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/colors.png",COLORS HINDI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
+///// ASTRO VAANAVIL 201//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="201" ch-number="201" tvg-name="ASTRO VAANAVIL" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/vaanavil.png",ASTRO VAANAVIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+
+
+///// ASTRO VINMEEN 202//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="202" ch-number="202" tvg-name="ASTRO VINMEEN" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/vaanavil.png",ASTRO VINMEEN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+
+///// ASTRO VELLITHIRAI 203//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="203" ch-number="203" tvg-name="ASTRO VELLITHIRAI" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/vellithirai.png",ASTRO VELLITHIRAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+
+///// SUN TV 211//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="211" ch-number="211" tvg-name="SUN TV" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/suntv.png",SUN TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+
+///// SUN MUSIC 212//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="212" ch-number="212" tvg-name="SUN TV" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/sunmusic.png",SUN MUSIC
+
+///// SUN ADITHYA 214//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="214" ch-number="214" tvg-name="SUN ADITHYA" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/adithya.png",SUN ADITHYA
+
+///// SUN NEWS 215//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="215" ch-number="215" tvg-name="SUN NEWS" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/adithya.png",SUN NEWS
+
+///// KTV 216//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="216" ch-number="216" tvg-name="KTV" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/ktv.png",KTV
+
+///// SUN LIFE 217//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="217" ch-number="217" tvg-name="SUN LIFE" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/sunlife.png",SUN LIFE
+
+///// STAR VIJAY 221//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="221" ch-number="221" tvg-name="STAR VIJAY" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/starvijay.png",STAR VIJAY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+
+///// COLORS TAMIL 222//////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="222" ch-number="222" tvg-name="COLORS TAMIL" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/colorstamil.png",COLORS TAMIL
+
+///// ZEE TAMIL 223 //////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="223" ch-number="223" tvg-name="ZEE TAMIL" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/colorstamil.png",ZEE TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+///// ABO MOVIES THANGATHIRAI 241 //////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="241" ch-number="241" tvg-name="ABO MOVIES THANGATHIRAI" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/thangathirai.png",ABO MOVIES THANGATHIRAI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
+///// BOLLYONE HD 251 //////
+
+#EXTINF:-1 group-title="Astro Indian" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="251" ch-number="251" tvg-name="BOLLYONE HD" tvg-logo="https://khakaz.com/iptv/tvlogo/astroi/bollyone.png",ASTRO BOLLYONE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"69gYPTMVhYTxIWA2TDF/+g", "kid":"+ISpLznXBMQy8lz2MzoyEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+
+
+
+
+
+
+
+
+##### ASTRO - CHINESE #######################################################################################################################################
+
+///// IQIYI  300//////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="300" ch-number="300" tvg-name="IQIYI" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/iqiyi.png",IQIYI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+///// ASTRO XIAO TAI YANG 304//////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="304" ch-number="304" tvg-name="ASTRO XIAO TAI YANG" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/xiaotaiyang.png",ASTRO XIAO TAI YANG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+
+///// TVB CLASSIC 305 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="305" ch-number="305" tvg-name="TVB CLASSIC" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/tvbclassic.png",TVB CLASSIC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+///// ASTRO AEC 306//////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="306" ch-number="306" tvg-name="ASTRO AEC" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/aec.png",ASTRO AEC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6fKn4EJ/Y7qabQxl2vQPmg", "kid":"ekpB3aNZlA5sjC/xIj13EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
+
+///// ASTRO SHUANG XING 307 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="307" ch-number="307" tvg-name="SHUANG XING" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/shuangxing.png",SHUANG XING
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0TvPDKbmLXG2xN1w1f/qsg", "kid":"M1ZnBdY/VvHTHEX2lWjtEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default.mpd
+
+///// ASTRO QUAN JIA 308 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="308" ch-number="308" tvg-name="QUAN JIA" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/quanjian.png",QUAN JIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nV4DYJS7d8uviGfTJyxm0A", "kid":"id5xzzm+CUbeyCjt/4TQEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2507/default.mpd
+
+///// CELESTIAL MOVIES 309 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="309" ch-number="309" tvg-name="CELESTIAL MOVIES" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/celestialmovies.png",CELESTIAL MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+///// TVB JADE 310 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="310" ch-number="310" tvg-name="TVB JADE" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/tvbjade.png",TVB JADE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y54aEi7RxkRffT/SFiNY8Q", "kid":"/hIZAZqfNs3vNHCI5ZLKEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+
+///// ASTRO AOD 311//////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="311" ch-number="311" tvg-name="ASTRO AOD 311" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/aod311.png",ASTRO AOD 311
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+
+///// CTI Asia 316//////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="316" ch-number="316" tvg-name="CTI Asia" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/ctiasia.png",CTI Asia
+
+///// TVB Entertaiment News 317 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="317" ch-number="317" tvg-name="TVB Entertaiment News" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/tvbentertaimentnews.png",TVB Entertaiment News
+
+///// TVB XING HE 319 //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="319" ch-number="319" tvg-name="TVB XING HE" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/tvxinghe.png",TVB XING HE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+
+///// 320 TVBS ASIA //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="320" ch-number="320" tvg-name="TVBS ASIA" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/tvbsasia.png",TVBS ASIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+
+///// 321 CELESTIAL CLASSIC MOVIES //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="321" ch-number="321" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/celestialclassicmovies.png",CELESTIAL CLASSIC MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+
+///// 325 PHOENIX CHINESE CHANNEL //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="325" ch-number="325" tvg-name="PHOENIX CHINESE CHANNEL" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/pheonixchinesechannel.png",PHOENIX CHINESE CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+
+///// 333 ASTRO HUA HEE DAI //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="333" ch-number="333" tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/huaheedai.png",ASTRO HUA HEE DAI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+
+
+///// 352 ASTRO AOD //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="352" ch-number="352" tvg-name="ASTRO AOD 352" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/aod352.png",ASTRO AOD 352
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dteB6K/4Pv5TOVrXhOfSA", "kid":"oMHwDxR3ez2vSpEsQxDxEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+
+
+
+
+///// 354 ASTRO AOD //////
+
+#EXTINF:-1 group-title="Astro Chinese" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="354" ch-number="354" tvg-name="ASTRO AOD 354" tvg-logo="https://khakaz.com/iptv/tvlogo/astroc/aod354.png",ASTRO AOD 354
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////// A
+
+//// KBS World ////
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="392" ch-number="392" tvg-name="KBS World" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/kbsworld.png",KBS World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="392" ch-number="392" tvg-name="KBS World⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/kbsworld.png",KBS World⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+
+//// ONE ////
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="393" ch-number="393" tvg-name="ONE ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/one.png",ONE ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="393" ch-number="3931" tvg-name="ONE ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/one.png",ONE ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="393" ch-number="3931" tvg-name="ONE ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/one.png",ONE ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+//// tvN Asia ////
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="395" ch-number="395" tvg-name="tvN Asia ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/tvnasia.png",tvN Asia ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="395" ch-number="395" tvg-name="tvN Asia ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/tvnasia.png",tvN Asia ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="395" ch-number="395" tvg-name="tvN Asia ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/tvnasia.png",tvN Asia ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+
+//// K-Plus ////
+
+#EXTINF:-1 group-title="Korea & Japan" tvg-id="396" ch-number="396" tvg-name="K-Plus" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/kplus.png",K-Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9983
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#EXTINF:-1 group-title="Korea & Japan" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="396" ch-number="396" tvg-name="K-Plus⁽ˢᵉʳᵛᵉʳ 2⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/kplus.png",K-Plus⁽ˢᵉʳᵛᵉʳ 2⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+//// NHK World Premium ////
+
+#EXTINF:-1 group-title="Korea & Japan" tvg-id="398" ch-number="398" tvg-name="NHK World Premium" tvg-logo="https://khakaz.com/iptv/tvlogo/kojap/nhkworldpremium.png",NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+////////// Movie //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//// HITS ////
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="401" ch-number="HITS.sg" tvg-name="HITS" tvg-logo="https://icon.mammothtv.my.id/film/hits.png",HITS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+//// HITS Movie////
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="401" ch-number="401" tvg-name="HITS Movies ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hitsmovie.png",HITS Movies ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="401" ch-number="4011" tvg-name="HITS Movies ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hitsmovie.png",HITS Movies ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HitsM.png" tvg-id="401" ch-number="4011" tvg-name="HITS Movies ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hitsmovie.png",HITS Movies ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+//// BOO ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="404" ch-number="404" tvg-name="BOO" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/boo.png",BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="404" ch-number="404" tvg-name="BOO⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/boo.png",BOO⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+//// HBO ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="411" ch-number="411" tvg-name="HBO ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbo.png",HBO ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+https://aqfadtv.xyz/live/hbo/index.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="411" ch-number="411" tvg-name="HBO ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbo.png",HBO ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="411" ch-number="411" tvg-name="HBO ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbo.png",HBO ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="411" ch-number="411" tvg-name="HBO US ⁽ˢᵉʳᵛᵉʳ 1⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbo.png",HBO US ⁽ˢᵉʳᵛᵉʳ 1⁾
+https://ddy1.cdnhks.lol/ddy1/premium321/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="411" ch-number="411" tvg-name="HBO ⁽ˢᵉʳᵛᵉʳ 4⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbo.png",HBO ⁽ˢᵉʳᵛᵉʳ 4⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+//// Cinemax ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="412" ch-number="412" tvg-name="Cinemax ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/cinemax.png",Cinemax ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="412" ch-number="412" tvg-name="Cinemax ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/cinemax.png",Cinemax ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="412" ch-number="412" tvg-name="Cinemax ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/cinemax.png",Cinemax ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+//// Cinema World ////
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="412" ch-number="4121" tvg-name="CinemaWorld HD" tvg-logo="https://icon.mammothtv.my.id/film/cinemaworld.png",Cinema World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+
+
+//// SHOWCASE MOVIES ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="413" ch-number="413" tvg-name="Showcase Movies" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/showcasemovies.png",SHOWCASE MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="413" ch-number="413" tvg-name="Showcase Movies" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/showcasemovies.png",SHOWCASE MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+//// HBO Family ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="414" ch-number="414" tvg-name="HBO Family ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbofamily.png",HBO Family ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="414" ch-number="414" tvg-name="HBO Family ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbofamily.png",HBO Family ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="414" ch-number="414" tvg-name="HBO Family ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbofamily.png",HBO Family ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+//// HBO Hits ////
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="415" ch-number="415" tvg-name="HBO Hits ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbohits.png",HBO Hits ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="415" ch-number="415" tvg-name="HBO Hits ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbohits.png",HBO Hits ⁽ˢᵉʳᵛᵉʳ ²⁾
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="415" ch-number="415" tvg-name="HBO Hits ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/hbohits.png",HBO Hits ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+//// tvN Movies ////
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="416" ch-number="416" tvg-name="tvN Movies ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/tvnmovies.png",tvN Movies ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="416" ch-number="416" tvg-name="tvN Movies ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/tvnmovies.png",tvN Movies ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="416" ch-number="416" tvg-name="tvN Movies ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/movie/tvnmovies.png",tvN Movies ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+//// SONY PIX ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="" ch-number="" tvg-name="SONY PIX" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+//// SONY PIX ////
+
+#EXTINF:-1 group-title="🎬 Movie" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="" ch-number="" tvg-name="GALAXY PREMIUM" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_GalaxyPre.png",GALAXY PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+
+//// My Cinema Europe ////
+#EXTINF:-1 group-title="🎬 Movie" tvg-id="MyCinemaEurope.id" ch-number="416" tvg-name="My Cinema Europe" tvg-logo="https://icon.mammothtv.my.id/film/mce.png",My Cinema Europe
+http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
+
+////////// News //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//// Astro Awani ////
+
+#EXTINF:-1 group-title="News" tvg-id="501" ch-number="501" tvg-name="Astro Awani" tvg-logo="https://khakaz.com/iptv/tvlogo/news/astroawani.png",Astro Awani
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="501" ch-number="501" tvg-name="Astro Awani ⁽ˢᵉʳᵛᵉʳ 2⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/astroawani.png",Astro Awani ⁽ˢᵉʳᵛᵉʳ 2⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+
+//// Bernama TV ////
+
+#EXTINF:-1 group-title="News" tvg-id="502" ch-number="502" tvg-name="Bernama TV" tvg-logo="https://khakaz.com/iptv/tvlogo/news/bernamatv.png",Bernama TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+
+//// CGTN ////
+
+#EXTINF:-1 group-title="News" tvg-id="503" ch-number="503" tvg-name="CGTN" tvg-logo="https://khakaz.com/iptv/tvlogo/news/cgtn.png",CGTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5019
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
+#https://live.cgtn.com/1000/prog_index.m3u8
+
+//// Berita RTM ////
+
+#EXTINF:-1 group-title="News" tvg-id="504" ch-number="504" tvg-name="Berita RTM" tvg-logo="https://khakaz.com/iptv/tvlogo/news/beritartm.png",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+
+//// CNN International ////
+
+#EXTINF:-1 group-title="News" tvg-id="511" ch-number="511" tvg-name="CNN International ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/cnninternational.png",CNN International ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="511" ch-number="5111" tvg-name="CNN International ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/cnninternational.png",CNN International ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2503
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+
+//// BBC World News ////
+
+#EXTINF:-1 group-title="News" tvg-id="512" ch-number="512" tvg-name="BBC World News ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/bbcwoldnews.png",BBC World News ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#https://akamai.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="512" ch-number="5121" tvg-name="BBC World News ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/bbcwoldnews.png",BBC World News ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1008
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+
+//// Al Jazeera News ////
+
+#EXTINF:-1 group-title="News" tvg-id="513" ch-number="513" tvg-name="Al Jazeera News" tvg-logo="https://khakaz.com/iptv/tvlogo/news/aljazeeranews.png",Al Jazeera News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2110
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+//// Sky News ////
+
+#EXTINF:-1 group-title="News" tvg-id="514" ch-number="514" tvg-name="Sky News" tvg-logo="https://khakaz.com/iptv/tvlogo/news/skynews.png",Sky News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2102
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+#https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+//// CNA ////
+
+#EXTINF:-1 group-title="News" tvg-id="515" ch-number="515" tvg-name="CNA" tvg-logo="https://khakaz.com/iptv/tvlogo/news/cna.png",CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/605
+https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+
+//// CNBC Asia ////
+
+#EXTINF:-1 group-title="News" tvg-id="516" ch-number="516" tvg-name="CNBC Asia ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/cnbcasia.png",CNBC Asia ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/900
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="516" ch-number="5161" tvg-name="CNBC Asia ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/cnbcasia.png",CNBC Asia ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+//// Bloomberg Television ////
+
+#EXTINF:-1 group-title="News" tvg-id="517" ch-number="517" tvg-name="Bloomberg Television ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/bloombergtv.png",Bloomberg Television ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+#https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+#https://akamai.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+#https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="517" ch-number="5171" tvg-name="Bloomberg Television ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/news/bloombergtv.png",Bloomberg Television ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5020
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
+
+//// ABC Australia ////
+
+#EXTINF:-1 group-title="News" tvg-id="518" ch-number="518" tvg-name="ABC Australia" tvg-logo="https://khakaz.com/iptv/tvlogo/news/abcaustralia.png",ABC Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/904
+https://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_primary.mpd
+
+
+////////// Learning //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//// NAT GEO WILD ////
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="550" ch-number=550"" tvg-name="NAT GEO WILD ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/natgeowild.png",NAT GEO WILD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="550" ch-number=550"" tvg-name="NAT GEO WILD ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/natgeowild.png",NAT GEO WILD ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="550" ch-number=550"" tvg-name="NAT GEO WILD⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/natgeowild.png",NAT GEO WILD ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://av-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+//// NATIONAL GEOGRAPHIC ////
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="551" ch-number="551" tvg-name="NATIONAL GEOGRAPHIC ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/natgeo.png",NATIONAL GEOGRAPHIC ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
+http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_primary.mpd
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="551" ch-number="551" tvg-name="NATIONAL GEOGRAPHIC ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/natgeo.png",NATIONAL GEOGRAPHIC ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id="551" ch-number="551" tvg-name="National Geographic ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/natgeo.png",National Geographic ⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://av-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+//// DISCOVERY CHANNEL ////
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id=552"" ch-number="552" tvg-name="DISCOVERY CHANNEL ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/discovery.png",DDISCOVERY CHANNEL⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+
+#EXTINF:-1 group-title="Learning" group-logo="https://khakaz.com/iptv/tvlogo/logog/astro.png" tvg-id=552"" ch-number="552" tvg-name="DISCOVERY CHANNEL⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/discovery.png",DISCOVERY CHANNEL ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+
+//// Discovery Asia ////
+
+#EXTINF:-1 group-title="Learning" tvg-id="553" ch-number="553" tvg-name="Discovery Asia" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/discoveryasia.png",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+
+//// BBC Earth ////
+
+#EXTINF:-1 group-title="Learning" tvg-id="554" ch-number="554" tvg-name="BBC Earth ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/bbcearth.png",BBC Earth ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+
+#EXTINF:-1 group-title="Learning" tvg-id="554" ch-number="554" tvg-name="BBC Earth ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/bbcearth.png",BBC Earth ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+//// History ////
+
+#EXTINF:-1 group-title="Learning" tvg-id="555" ch-number="555" tvg-name="History ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/history.png",History ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#EXTINF:-1 group-title="Learning" tvg-id="555" ch-number="555" tvg-name="History ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/history.png",History ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+//// Animal Planet ////
+
+#EXTINF:-1 group-title="Learning" tvg-id="556" ch-number="556" tvg-name="Animal Planet ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/animalplanet.png",Animal Planet ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+
+#EXTINF:-1 group-title="Learning" tvg-id="556" ch-number="556" tvg-name="Animal Planet ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/learning/animalplanet.png",Animal Planet ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+
+////////// English //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//// AXN //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="701" ch-number="701" tvg-name="AXN ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",AXN ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="701" ch-number="7011" tvg-name="AXN ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",AXN ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="701" ch-number="7012" tvg-name="AXN ID ⁽ˢᵉʳᵛᵉʳ 3⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",AXN ID⁽ˢᵉʳᵛᵉʳ 3⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+
+
+//// Lifetime //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="703" ch-number="703" tvg-name="Lifetime ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/lifetime.png",Lifetime ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="703" ch-number="7031" tvg-name="Lifetime ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/lifetime.png",Lifetime ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+////PRIMEtime //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="704" ch-number="704" tvg-name="PRIMEtime" tvg-logo="https://khakaz.com/iptv/tvlogo/english/primetime.png",PRIMEtime
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
+
+//// HITS //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="706" ch-number="706" tvg-name="HITS ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/hits.png",HITS ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="706" ch-number="7061" tvg-name="HITS ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/hits.png",HITS ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+//// TLC //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="707" ch-number="707" tvg-name="TLC ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/tlc.png",TLC ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="707" ch-number="7071" tvg-name="TLC ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/tlc.png",TLC ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+
+//// Food Network //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="708" ch-number="708" tvg-name="Food Network" tvg-logo="https://khakaz.com/iptv/tvlogo/english/foodnetwork.png",Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+
+//// Asian Food Network //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="709" ch-number="709" tvg-name="Asian Food Network ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",Asian Food Network ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="709" ch-number="7091" tvg-name="Asian Food Network ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",Asian Food Network ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
+//// Warner TV//// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="712" ch-number="712" tvg-name="WarnerTV ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",WarnerTV ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="712" ch-number="7121" tvg-name="WarnerTV ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/axn.png",WarnerTV ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+//// Paramount Network //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="713" ch-number="713" tvg-name="Paramount Network" tvg-logo="https://khakaz.com/iptv/tvlogo/english/paramountnetwork.png",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
+
+//// Crime + Investigation //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="714" ch-number="714" tvg-name="Crime + Investigation ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/crimeinvestigation.png",Crime + Investigation ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="714" ch-number="7141" tvg-name="Crime + Investigation ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/crimeinvestigation.png",Crime + Investigation ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+//// HGTV //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="715" ch-number="715" tvg-name="HGTV ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/hgtv.png",HGTV ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="715" ch-number="7151" tvg-name="HGTV ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/hgtv.png",HGTV ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+//// DMAX //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="716" ch-number="716" tvg-name="DMAX" tvg-logo="https://khakaz.com/iptv/tvlogo/english/dmax.png",DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+
+
+//// BBC Lifestyle //// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="717" ch-number="717" tvg-name="BBC Lifestyle ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/bbclifestyle.png",BBC Lifestyle ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+
+#EXTINF:-1 group-title="Astro English" tvg-id="717" ch-number="717" tvg-name="BBC Lifestyle ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/english/bbclifestyle.png",BBC Lifestyle ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+
+//// MTV Live//// 
+
+#EXTINF:-1 group-title="Astro English" tvg-id="718" ch-number="718" tvg-name="MTV Live" tvg-logo="https://khakaz.com/iptv/tvlogo/english/mtvlive.png",MTV Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"B-6Ub_GwQk6N4BKcPZej5g","k":"n8I06JiTYR45QNfEG6TOKQ"}]}
+https://b42558-p7-he0-te1bbef.4.cdn.telefonica.com/_42558/sdash/LIVE$MTVLiveHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=Dashavc&tcdn-bitrate-filter=LiveL-M
+
+
+////////// Sport //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//// eGG Network ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="800" ch-number="800" tvg-name="eGG Network" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/eggnetwork.png",eGG Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2602
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
+
+//// Astro Arena ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="801" ch-number="801" tvg-name="Astro Arena" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/astroarena.png",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+//// Astro Arena 2 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="802" ch-number="802" tvg-name="Astro Arena 2" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/astroarena2.png",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+//// Sukan RTM ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="804" ch-number="804" tvg-name="Sukan RTM" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/sukanrtm.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+
+//// Astro Supersport UHD ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="805" ch-number="805" tvg-name="Astro Supersport UHD ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersportuhd.png",Astro Supersport UHD ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+# http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/149.ts
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="805" ch-number="8051" tvg-name="Astro Supersport UHD ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersportuhd.png",Astro Supersport UHD ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="805" ch-number="8052" tvg-name="Astro Supersport UHD ⁽ˢᵉʳᵛᵉʳ ³⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersportuhd.png",Astro Supersport UHD ⁽ˢᵉʳᵛᵉʳ ³⁾
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts
+
+
+//// SPOTV2 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="810" ch-number="810" tvg-name="SPOTV2" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/spotv2.png",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+//// Astro Supersport ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="811" ch-number="811" tvg-name="Astro Supersport ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport.png",Astro Supersport ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+# http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/149.ts
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="811" ch-number="8112" tvg-name="Astro Supersport ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport.png",Astro Supersport ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+
+//// Astro Supersport 2 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="812" ch-number="812" tvg-name="Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport2.png",Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
+https://aqfadtv.xyz/live/supersport2/index.mpd
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="812" ch-number="8121" tvg-name="Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport2.png",Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="812" ch-number="8122" tvg-name="Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ³⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport2.png",Astro Supersport 2 ⁽ˢᵉʳᵛᵉʳ ³⁾
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52860
+
+
+//// Astro Supersport 3 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="813" ch-number="813" tvg-name="Astro Supersport 3 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport3.png",Astro Supersport 3 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
+https://aqfadtv.xyz/live/supersport3/index.mpd
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="813" ch-number="8131" tvg-name="Astro Supersport 3 ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport3.png",Astro Supersport 3 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="813" ch-number="8132" tvg-name="Astro Supersport 3 ⁽ˢᵉʳᵛᵉʳ ³⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport3.png",Astro Supersport 3 ⁽ˢᵉʳᵛᵉʳ ³⁾
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52861
+
+//// Astro Supersport 4 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="814" ch-number="814" tvg-name="Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport4.png",Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
+https://aqfadtv.xyz/live/supersport4/index.mpd
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="8141" ch-number="814" tvg-name="Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport4.png",Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="8142" ch-number="814" tvg-name="Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ³⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport4.png",Astro Supersport 4 ⁽ˢᵉʳᵛᵉʳ ³⁾
+http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/52862
+
+
+//// Astro Supersport 5 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="815" ch-number="815" tvg-name="Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport5.png",Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="815" ch-number="8151" tvg-name="Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/supersport5.png",Astro Supersport 5 ⁽ˢᵉʳᵛᵉʳ ²⁾ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium43/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+//// SPOTV ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="816" ch-number="816" tvg-name="SPOTV" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/spotv.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+
+//// beIN Sports 2 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="817" ch-number="817" tvg-name="beIN Sports 2" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/beinsports2.png",beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
+
+//// beIN Sports ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="818" ch-number="818" tvg-name="beIN Sports ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/beinsports.png",beIN Sports ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="818" ch-number="8181" tvg-name="beIN Sports ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/beinsports.png",beIN Sports ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+//// beIN Sports 3 ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="819" ch-number="819" tvg-name="beIN Sports 3" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/beinsports3.png",beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+//// Eurosport ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="820" ch-number="820" tvg-name="Eurosport ⁽ˢᵉʳᵛᵉʳ ¹⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/eurosport.png",Eurosport ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="820" ch-number="821" tvg-name="Eurosport ⁽ˢᵉʳᵛᵉʳ ²⁾" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/eurosport.png",Eurosport ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd
+
+//// WWE Network ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="821" ch-number="821" tvg-name="WWE Network" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/wwenetwork.png",WWE Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+
+//// Golf Channel ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="822" ch-number="822" tvg-name="Golf Channel" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/golfchannel.png",Golf Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
+
+//// Premier Sports ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="823" ch-number="823" tvg-name="Premier Sports" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/premiersports.png",Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+//// Astro Criket ////
+
+#EXTINF:-1 group-title="️⚽️ Sport" tvg-id="824" ch-number="824" tvg-name="Astro Criket" tvg-logo="https://khakaz.com/iptv/tvlogo/sport/astrocriket.png",Astro Criket
+
+////////// INDONESIA TV ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:-1 group-title="️TV INDONESIA" group-logo="https://khakaz.com/iptv/tvlogo/logog/nindo.png" tvg-id="823" ch-number="823" tvg-name="INDOSIAR" tvg-logo="https://khakaz.com/iptv/tvlogo/logog/nindo.png",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://web.ottgo.live/socia/vidio23/icon.png?id=205
+
+#EXTINF:-1 group-title="️TV INDONESIA" group-logo="https://khakaz.com/iptv/tvlogo/logog/nindo.png" tvg-id="" ch-number="" tvg-name="SCTV" tvg-logo="",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://web.ottgo.live/socia/vidio23/icon.png?id=204
+
+
+######### SINGAPORE ##############################################################################################################################
+
+//////// Channel 5  ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="Channel 5" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",Channel 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+//////// Channel 8 ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="Channel 8" tvg-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png",Channel 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9I62dT89F3TaaClwyTzyYA", "kid":"JEj8VhsMQiCoHxAIlx0wiA" } ], "type":"temporary" }
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+//////// Channel U ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="Channel U" tvg-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png",Channel U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LMaeqqhY/tJMViNlTa+NPQ", "kid":"AyihU8KZSyeasDqyUQL8WQ" } ], "type":"temporary" }
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+//////// Channel Suria ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="Channel Suria" tvg-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png",Channel Suria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uTgBiLSJayXo1BnfzpOMbg", "kid":"ep6m31IESEGwxWJ2bmAmEA" } ], "type":"temporary" }
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+//////// Channel Vasantham ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="Channel Vasantham" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",Channel Vasantham
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+//////// SPORT 1 (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="SPORT 1 (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 1 (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+//////// SPORT 2 (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="SPORT 2 (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+//////// ANIMAX (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="ANIMAX (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",ANIMAX (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+//////// GEM (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="GEM (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",GEM (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nUO8xR83UFUNMhzcN+V8yQ", "kid":"BAPmVN2rQZ22zHK7P6USSA" } ], "type":"temporary" }
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+
+//////// ROCK ACTION (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="ROCK ACTION (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",ROCK ACTION (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+
+//////// ROCK ENTERTAINMENT (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="ROCK ENTERTAINMENT (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",ROCK ENTERTAINMENT (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+
+//////// GLOBAL TREKKER (SGP) ////////
+#EXTINF:-1 group-title="️TV SINGAPORE" group-logo="https://khakaz.com/iptv/tvlogo/logog/nsg.png" tvg-id="" ch-number="" tvg-name="GLOBAL TREKKER (SGP)" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",GLOBAL TREKKER (SGP)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZQOYNV+jPK7TAcU+cVI7uQ", "kid":"TcVubuYkS7aTBl7bfbywCQ" } ], "type":"temporary" }
+https://tglmp04.akamaized.net/out/v1/179412178c874c7fba3ca6b0d382cd92/manifest.mpd
+
+
+
+
